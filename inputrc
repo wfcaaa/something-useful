@@ -1,4 +1,4 @@
-// you can copy this file in you home and this will make you command ignore upper and loweer
+# you can copy this file in you home and this will make you command ignore upper and loweer
 set completion-ignore-case on
 "\e[A":history-search-backward
 "\e[B":history-search-forward
