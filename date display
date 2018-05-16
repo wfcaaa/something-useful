@@ -1,0 +1,2 @@
+date +%Y-%m-%d\ %H:%M:%s  in linux system this command will display time as the follow format:
+2018-5-16 10:13:14
