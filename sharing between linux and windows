@@ -1,0 +1,2 @@
+Command: sudo mount -o username=jax.wu(your computer account),uid=1832(id -a command to view) 
+//10.150.10.111/Huatek\  PC\  Backup/Jax/vfsshared  /home/jaxwu/mnt/windows/
