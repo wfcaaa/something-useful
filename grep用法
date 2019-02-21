@@ -1,0 +1,1 @@
+cat test.txt|grep -iE "hi|hello" //搜索test文件中含有“hi”或者“hello”的行
