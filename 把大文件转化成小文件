@@ -1,0 +1,3 @@
+wc -l  filename //查看文件行数
+split -l 1000 filename -d  -a 4 suffix_ 
+examples: split -l 100 test.txt -d -a 4 txt_ //假定test.txt有1000行 则把 test 分割成 10 个100行的文件
